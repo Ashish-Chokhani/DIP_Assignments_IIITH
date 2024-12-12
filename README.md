@@ -94,5 +94,5 @@ Each assignment explores fundamental and advanced topics in image processing, im
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/<YourUsername>/digital-image-processing.git
-   cd digital-image-processing
+   git clone https://github.com/Ashish-Chokhani/DIP_Assignments_IIITH.git
+   cd DIP_Assignments_IIITH
