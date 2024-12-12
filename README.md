@@ -90,9 +90,26 @@ Each assignment explores fundamental and advanced topics in image processing, im
 
 ---
 
-## 🚀 Setup Instructions
+## 🚀 Reference Books
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/Ashish-Chokhani/DIP_Assignments_IIITH.git
-   cd DIP_Assignments_IIITH
+1. **Digital Image Processing Using MATLAB**  
+   By Rafael C. Gonzalez, Richard E. Woods, Steven L. Eddins  
+   [z-lib.org](https://z-lib.org)  
+
+   This book provides an in-depth understanding of image processing concepts with practical applications using MATLAB. It covers a variety of techniques and algorithms, from basic concepts to advanced methods.
+
+2. **Digital Image Processing**  
+   By Rafael C. Gonzalez, Richard Eugene Woods  
+   [z-lib.org](https://z-lib.org)  
+
+   This is one of the most widely used textbooks for learning image processing. It covers both the theory and the algorithms behind image processing techniques, including filtering, segmentation, and feature extraction.
+
+3. **JainChapt4_ConvolutionGaussian**  
+   By R. K. Jain  
+
+   This chapter from the book focuses on convolution and Gaussian filters, which are foundational techniques in image processing. It explains the mathematical concepts and their applications in image enhancement and filtering.
+   
+4. **Kenneth-Zeger-UCSD-Gaussian-polar-coordinate**  
+   By Kenneth Zeger (UCSD)  
+
+   This reference explores advanced concepts related to Gaussian filters and polar coordinates in image processing, with an emphasis on practical implementation and optimization for various image processing tasks.
