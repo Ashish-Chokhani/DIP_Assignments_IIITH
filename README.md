@@ -94,13 +94,11 @@ Each assignment explores fundamental and advanced topics in image processing, im
 
 1. **Digital Image Processing Using MATLAB**  
    By Rafael C. Gonzalez, Richard E. Woods, Steven L. Eddins  
-   [z-lib.org](https://z-lib.org)  
 
    This book provides an in-depth understanding of image processing concepts with practical applications using MATLAB. It covers a variety of techniques and algorithms, from basic concepts to advanced methods.
 
 2. **Digital Image Processing**  
    By Rafael C. Gonzalez, Richard Eugene Woods  
-   [z-lib.org](https://z-lib.org)  
 
    This is one of the most widely used textbooks for learning image processing. It covers both the theory and the algorithms behind image processing techniques, including filtering, segmentation, and feature extraction.
 
